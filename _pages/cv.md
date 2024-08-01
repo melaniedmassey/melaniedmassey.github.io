@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 **Ph.D., Biology, Dalhousie University, 2018 - 2023**
 
 <ul> <i>Phenotypic plasticity in response to thermal variability within and across generations</i>
@@ -30,8 +30,8 @@ Supervisd by Dr. Njal Rollinson  </ul>
 <ul> Major in Biology, Minor in Natural History </ul>
 
 
-Awards & Grants
-======
+## Awards & Grants
+
 <b>Liber Ero Postdoctoral Fellowship (2023 - 2026)</b>
 <ul> My research on the ecophysiology and human dimensions of invasive goldfish is suppored by joint <a href="https://liberero.ca/meet-the-fellows/">Liber Ero Foundation</a> and NSERC PDF fellowships. <i>Combined value: $250,000 over 3 years.</i></ul>
 
@@ -94,14 +94,14 @@ Awards & Grants
 <b> Govenor Generals Bronze Academic Medal (2010)</b>
 
 
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
