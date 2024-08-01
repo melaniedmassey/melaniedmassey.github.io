@@ -11,15 +11,23 @@ redirect_from:
 
 Education
 ======
-Ph.D., Biology, Dalhousie University, 2018 - 2023
+**Ph.D., Biology, Dalhousie University, 2018 - 2023**
 
-    *Phenotypic plasticity in response to thermal variability within and across generations*
+*Phenotypic plasticity in response to thermal variability within and across generations*
     
-    Supervised by Dr. Jeffrey A. Hutchings and Dr. Anne C. Dalziel
+Supervised by Dr. Jeffrey A. Hutchings and Dr. Anne C. Dalziel  
 
-M.Sc., Ecology and Evolutionary Biology, University of Toronto, 2016 - 2018
 
-B. Sc., Major in Biology, Minor in Natural History, McGill University, 2010 - 2014
+  **M.Sc., Ecology and Evolutionary Biology, University of Toronto, 2016 - 2018**
+
+*Measurement and modelling of primary sex ratios for species with temperature-dependent sex determination*
+
+Supervisd by Dr. Njal Rollinson  
+
+
+  **B. Sc., McGill University, 2010 - 2014**
+
+*Major in Biology, Minor in Natural History*
 
 
 Work experience
