@@ -21,7 +21,7 @@ repository               : "https://melaniedmassey.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Liber Ero & NSERC Post-Doctoral Fellow"
   pronouns         : "she/her"
   bio              : "Ecology, developmental biology, climate change, invasive species, and human dimensions of conservation."
